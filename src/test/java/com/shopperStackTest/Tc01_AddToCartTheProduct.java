@@ -20,7 +20,7 @@ public class Tc01_AddToCartTheProduct extends BaseClass{
 		//Step1: Click on login link on Welcome page.
 
 		Welcome wlcm=new Welcome(driver);
-		Thread.sleep(5000);
+		Thread.sleep(8000);
 		wlcm.clickOnLoginButton();
 
 		// Step2: Enter the email id into Email text field.

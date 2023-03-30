@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-30T00:27:00 IST" name="Default suite" finished-at="2023-03-30T00:27:35 IST" duration-ms="34229">
+  <suite started-at="2023-03-30T09:45:52 IST" name="Default suite" finished-at="2023-03-30T09:46:41 IST" duration-ms="49383">
     <groups>
     </groups>
-    <test started-at="2023-03-30T00:27:00 IST" name="Default test" finished-at="2023-03-30T00:27:35 IST" duration-ms="34229">
+    <test started-at="2023-03-30T09:45:52 IST" name="Default test" finished-at="2023-03-30T09:46:41 IST" duration-ms="49383">
       <class name="com.shopperStackTest.Tc01_AddToCartTheProduct">
-        <test-method is-config="true" signature="connectDB()[pri:0, instance:com.shopperStackTest.Tc01_AddToCartTheProduct@242b836]" started-at="2023-03-30T00:27:00 IST" name="connectDB" finished-at="2023-03-30T00:27:00 IST" duration-ms="11" status="PASS">
+        <test-method is-config="true" signature="connectDB()[pri:0, instance:com.shopperStackTest.Tc01_AddToCartTheProduct@242b836]" started-at="2023-03-30T09:45:52 IST" name="connectDB" finished-at="2023-03-30T09:45:52 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- connectDB -->
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.shopperStackTest.Tc01_AddToCartTheProduct@242b836]" started-at="2023-03-30T00:27:00 IST" name="launchBrowser" finished-at="2023-03-30T00:27:14 IST" duration-ms="13528" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.shopperStackTest.Tc01_AddToCartTheProduct@242b836]" started-at="2023-03-30T09:45:52 IST" name="launchBrowser" finished-at="2023-03-30T09:46:06 IST" duration-ms="14550" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="tc01_AddToCartTheProductTest()[pri:0, instance:com.shopperStackTest.Tc01_AddToCartTheProduct@242b836]" started-at="2023-03-30T00:27:14 IST" name="tc01_AddToCartTheProductTest" finished-at="2023-03-30T00:27:35 IST" duration-ms="20647" status="PASS">
+        <test-method signature="tc01_AddToCartTheProductTest()[pri:0, instance:com.shopperStackTest.Tc01_AddToCartTheProduct@242b836]" started-at="2023-03-30T09:46:06 IST" name="tc01_AddToCartTheProductTest" finished-at="2023-03-30T09:46:33 IST" duration-ms="26523" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc01_AddToCartTheProductTest -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.shopperStackTest.Tc01_AddToCartTheProduct@242b836]" started-at="2023-03-30T00:27:35 IST" name="closeBrowser" finished-at="2023-03-30T00:27:35 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.shopperStackTest.Tc01_AddToCartTheProduct@242b836]" started-at="2023-03-30T09:46:33 IST" name="closeBrowser" finished-at="2023-03-30T09:46:41 IST" duration-ms="8258" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-        <test-method is-config="true" signature="closeDB()[pri:0, instance:com.shopperStackTest.Tc01_AddToCartTheProduct@242b836]" started-at="2023-03-30T00:27:35 IST" name="closeDB" finished-at="2023-03-30T00:27:35 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="closeDB()[pri:0, instance:com.shopperStackTest.Tc01_AddToCartTheProduct@242b836]" started-at="2023-03-30T09:46:41 IST" name="closeDB" finished-at="2023-03-30T09:46:41 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDB -->

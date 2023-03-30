@@ -32,8 +32,9 @@ public class BaseClass {
 	}
 	
 	@AfterClass
-	public void closeBrowser() {
-		//driver.close();
+	public void closeBrowser() throws InterruptedException {
+		Thread.sleep(8000);
+		driver.close();
 		System.out.println("Browser closed successfully...!");
 	}
 	
